@@ -1,11 +1,47 @@
 body {
   background-color: white;
-  font family: Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   text-align: center;
+  font-weight: bold;
+  color: grey;
 }
 
 h1 {
   font-size: 70px;
-  font-weight: bold;
-  color: black;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+
+
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+#banner {
+  font-size: 23px;
+  color: white;
+  background-image: url("/Stuff/development/codecademyprojects/08.Broadway/resources/images/the-flatiron-building.png");
+}
+
+
+.nav {
+  color: white;
+  font-size: 18px;
+}
+
+.navigation {
+  background-image: url("/Stuff/development/codecademyprojects/08.Broadway/resources/images/the-flatiron-building.png");
+}
+
+.image{
+  opacity: 0.50;
 }
